@@ -16,6 +16,7 @@ public class Linux {
      */
     public static void main(String[] args) {
         System.out.println("Linux Version 1.0");
+        System.out.println("Version 1.0 Gnome");
     }
     
 }
